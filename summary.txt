@@ -1,0 +1,69 @@
+##visual studio - its an IDE DEVELOPED my Microsoft used to develop websites,desktop applications etc
+
+1. solution explorer- displays a solution and the project items created
+2. Debug - allows you to inspect your code and finding errors.
+3. git changes - here we can push code to github
+4. Build - used to build the solution
+5. Rebuild - used to rebuild the soln which is already build
+6. 
+
+#features:designer,debugger,code editor,extensiblity,
+
+#ASP.NET - is a web Framework designed and developed my microsoft..
+*it is built on CLR(Common Language Runtime)
+
+Two major components:
+#CLR - Common Language Run time
+#Class Library
+
+ADO.NET - Data Base support
+
+WEB APPLICATIONS
+#ASP.NET
+#WF(Workflow)
+
+Desktop Apps
+#Winforms 
+#WPF and silver light
+
+compiled vs Interpreted language
+compiled languages runs slowly if we do any mistakes wil get to knw der itself
+interpreted languages are fast bt we wont get to knw errors untill we run it..(might get run time errors)
+
+## ASP stands for active server pages and it is a server-side script engine for building web pages
+
+23/09/22
+
+## gone through visual studio video n tools
+## Basics of git hub
+##Data types in c# - 3 types 1.value data types 2.Refrence data types 3.pointer data types
+
+26/09/22
+
+console class - Console class provides some methods and properties using which we can implement the user interface in a console application.
+
+#Variables in c#
+1.static variable
+2.Non-static
+3.const variables-we cannot chnge its value once its declared
+4.Read only variables - we cant change/modify (bt we can modify with in constructor)
+
+##BOXING/UNBOXING
+1.BOXING - Boxing means you basically set a value type to a reference type. 
+2.UNBOXING - unboxing means you basically set a reference type to a value type.
+
+##Type casting - converting one data type to another
+2 types- 1.Implicit - converting lower to higher data type
+         2.Explicit - converting higher to lower data type
+
+EXAMPLE: int x=10;
+         object y =x;//boxing
+         int z= (int)y;//unboxing
+
+##STATIC AND NON-STATIC
+1.STATIC - members which are declared with a keyword are called static members
+2.NON-STATIC - Which are not declared with any keyword.
+     
+##FUNCTIONS
+1.Built-in-Functions
+2.user defined 
