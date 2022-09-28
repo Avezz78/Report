@@ -67,3 +67,29 @@ EXAMPLE: int x=10;
 ##FUNCTIONS
 1.Built-in-Functions
 2.user defined 
+
+## 28/09/22
+
+class and objects
+class-its a blueprint tat describes the propeties of object
+object-It is an instance of a class.An object can be considered as a thing that can perform activities.
+
+*syntax to create a class and object
+
+public class demo{
+
+}
+//creating a object for class
+demo d = new demo();
+
+
+constructor-It is a special method present inside a class responsible for initializing the variables of that class. 
+
+types of constructor
+1.parameterized constructor
+2.non parameterized constructor
+
+*syntax for  creating constructor
+public demo(){
+   ------
+}
