@@ -93,3 +93,10 @@ types of constructor
 public demo(){
    ------
 }
+
+##29/09/22
+*have gone through class objects constructors
+*practiced how to create a class and object 
+*get set methods
+*functions
+*how to call a function
