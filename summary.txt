@@ -100,3 +100,9 @@ public demo(){
 *get set methods
 *functions
 *how to call a function
+
+#30/09/22
+today have gone through basics of following oops concepts
+1.Inheretance
+2.Polimorphism
+3.Interface
