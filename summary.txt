@@ -106,3 +106,87 @@ today have gone through basics of following oops concepts
 1.Inheretance
 2.Polimorphism
 3.Interface
+#3/10/22
+
+-ABSTRACTION - Hiding the implementation and showing only neccesarry information is called Abstraction.
+-Abstract class - it is a restricted class that cannot be used to create objects
+
+y and wen to use Abstract class
+-Hiding certain details and only show the important details of an object.
+-we cant create an object of abstract class
+-To access the abstract class, it must be inherited from another class
+-using sealed keyword we can restrict inheritance
+
+-contract of Abstract class - if we inherit a Abstract class we need to provide its implementation in the child class..
+
+-syntax for abstract class:
+
+abstract class cricketer{
+  public abstarct void play();//only declaration no implementation
+}
+
+Abstract class                           Interface.
+1.Here we can have both abstract     1.its mandatory to have abstract methods 
+and non-abstract methods
+
+2.Abstract class members can have    2.Interface members are public by default and we cant have access modifiers
+  acces modifiers.abstract class
+  member is private by default.
+3.Abstract class can have fields.    3.Interface cannot have fields.(attributes)
+
+#3/10/22
+
+-ABSTRACTION - Hiding the implementation and showing only neccesarry information is called Abstraction.
+-Abstract class - it is a restricted class that cannot be used to create objects
+
+y and wen to use Abstract class
+-Hiding certain details and only show the important details of an object.
+-we cant create an object of abstract class
+-To access the abstract class, it must be inherited from another class
+-using sealed keyword we can restrict inheritance
+
+-contract of Abstract class - if we inherit a Abstract class we need to provide its implementation in the child class..
+
+-syntax for abstract class:
+
+abstract class cricketer{
+  public abstarct void play();//only declaration no implementation
+}
+
+Abstract class                           Interface.
+1.Here we can have both abstract     1.its mandatory to have abstract methods 
+and non-abstract methods
+
+2.Abstract class members can have    2.Interface members are public by default and we cant have access modifiers
+  acces modifiers.abstract class
+  member is private by default.
+3.Abstract class can have fields.    3.Interface cannot have fields.(attributes)
+
+#3/10/22 - Today have gone through below topics 
+
+-ABSTRACTION - Hiding the implementation and showing only neccesarry information is called Abstraction.
+-Abstract class - it is a restricted class that cannot be used to create objects
+
+y and wen to use Abstract class
+-Hiding certain details and only show the important details of an object.
+-we cant create an object of abstract class
+-To access the abstract class, it must be inherited from another class
+-using sealed keyword we can restrict inheritance
+
+-contract of Abstract class - if we inherit a Abstract class we need to provide its implementation in the child class..
+
+-syntax for abstract class:
+
+abstract class cricketer{
+  public abstarct void play();//only declaration no implementation
+}
+
+Abstract class                           Interface.
+1.Here we can have both abstract     1.its mandatory to have abstract methods 
+and non-abstract methods
+
+2.Abstract class members can have    2.Interface members are public by default and we cant have access modifiers
+  acces modifiers.abstract class
+  member is private by default.
+3.Abstract class can have fields.    3.Interface cannot have fields.(attributes)
+
