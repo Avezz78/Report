@@ -190,3 +190,30 @@ and non-abstract methods
   member is private by default.
 3.Abstract class can have fields.    3.Interface cannot have fields.(attributes)
 
+4/10/22
+##partial class
+
+Advantages : 
+
+-With the help of partial classes, multiple developers can work simultaneously in the same class in different files.
+-With the help of a partial class concept, you can split the UI of the design code and the business logic code to read and understand the code.
+-When you were working with automatically generated code, the code can be added to the class without having to recreate the source file like in Visual studio.
+-You can also maintain your application in an efficient manner by compressing large classes into small ones.  
+
+syntax:
+
+public partial Clas_name  
+{
+        // code
+}
+                  
+#Static Class in C#
+-The class which is created by using the static modifier is called a static class in C#. A static class can contain only static members.
+-A static class can contain only static members. It is not possible to create an instance of a static class. This is because it contains only static members.
+-we can access the static members of a class by using the class name
+
+*Extension methods
+ -to add new methods into a class without editing the source code of the class i.e. 
+ -if a class consists of a set of members in it and in the future if you want to add new methods into the class,
+- you can add those methods without making any changes to the source code of the class.
+
