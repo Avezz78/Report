@@ -217,3 +217,40 @@ public partial Clas_name
  -if a class consists of a set of members in it and in the future if you want to add new methods into the class,
 - you can add those methods without making any changes to the source code of the class.
 
+# 6/10/22
+
+-Property - is a member of a class using which we can expose values associated with a class to outside environment.
+- in a clas data fields data fields must always b private so we cant acces them outside class.. so we use properties to acces them outside class.
+
+Advantage - using get set we can set the condition for example: u want to modify a value and u want tat value to b higher than the original assigned value.
+so in this case u can use conditions in get set..
+
+syntax:
+double radius = 15.24
+
+public double radius{
+get {return radius;}
+set {radus = value;}
+
+What is an Exception in C#?
+An Exception is a class in C# which is responsible for abnormal termination of the program when runtime errors occur while running the 
+program. 
+-So, these errors (runtime) are very dangerous because whenever the runtime errors occur in the programs,  program gets terminated
+ abnormally on the same line where the error gets occurred without executing the next line of code.
+
+*Note: Most people are saying Runtime Errors are Exceptions which is not true. Exceptions are classes that are responsible for 
+abnormal termination of the program when runtime errors occur.
+
+- Exception always needs to b handled using try and catch block
+- finally block will always  get executed irrespective of exception occured or not
+- Two types of Errors:
+1.Compile tyme errors - due to syntax mistakes
+2.Runtime errors - occurs during runtime .. example - if we devide a num by zero
+
+-There are two methods to handle the exception in .NET
+
+1.Logical Implementation
+2.Try Catch Implementation
+
+Enums- It is mainly used to assign the names or string values to integral constants, that make a program easy to read and maintain.
+-wenevr we writing a code and we want 
