@@ -254,3 +254,13 @@ abnormal termination of the program when runtime errors occur.
 
 Enums- It is mainly used to assign the names or string values to integral constants, that make a program easy to read and maintain.
 -wenevr we writing a code and we want 
+
+#7/10/22
+
+- have gone through enums 
+- static class 
+- partial class and Methods
+- extension methods 
+- Attended  virtual sessions
+-Method overloading
+- method overriding 
