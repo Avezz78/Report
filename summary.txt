@@ -263,4 +263,10 @@ Enums- It is mainly used to assign the names or string values to integral consta
 - extension methods 
 - Attended  virtual sessions
 -Method overloading
-- method overriding 
+- method overriding
+
+#10/10/22
+
+- today have attended sessions of samantha on oops implementation
+- session of bhushan on indexers,Exception handling
+- have attended presentations sessions
