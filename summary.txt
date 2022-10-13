@@ -275,3 +275,7 @@ Enums- It is mainly used to assign the names or string values to integral consta
 
 - today have gone through solid principles video and oops implemtation video
 - and have implemented a sample project on Bankdetails using oops concepts
+
+##12/10/22
+-worked on  bank project and completed tasks given by samantha
+-pushed the code to github
